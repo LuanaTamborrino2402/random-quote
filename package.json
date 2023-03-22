@@ -1,0 +1,15 @@
+{
+  "name": "random-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luana",
+  "license": "ISC",
+  "dependencies": {
+    "enquoraging": "^1.4.0"
+  }
+}

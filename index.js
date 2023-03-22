@@ -1,1 +1,4 @@
-console.log("Hello World")
+import {
+  getRandomQuote,
+} from "enquoraging";
+console.log(getRandomQuote());
